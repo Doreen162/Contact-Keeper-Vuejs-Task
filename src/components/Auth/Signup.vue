@@ -55,7 +55,7 @@
           <v-card-actions>
  <v-btn to="/signup" round color="black" dark>Signup</v-btn>
               <v-spacer></v-spacer>
-              <router-link to="/todo" exact><v-btn round color="success" dark v-on:click="Signup">
+              <router-link to="/Contacts" exact><v-btn round color="success" dark v-on:click="Signup">
                 Register
                 <v-icon>keyboard_arrow_right</v-icon>
               </v-btn></router-link>
